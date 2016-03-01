@@ -1,0 +1,28 @@
+name: bacon
+favicon: null
+layout_spectrum: 0.35035188938491046
+typography_spectrum: 0.004855090752243996
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7636735839769244
+  lightness: 0.577524006832391
+  saturation: 0.13810098124668002
+  rhythmicContrast: 0.516902789240703
+purpose: []
